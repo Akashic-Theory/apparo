@@ -1,0 +1,6 @@
+# Ignore IDE config
+.idea/
+
+# Ignore Build directories
+*build*/
+
