@@ -3,3 +3,8 @@ Apparō [ˈäpːäroː] (Latin)
 
 ---
 Apparō is a **Discord** bot for managing event scheduling options.
+
+---
+Dependencies
+---
+* [DPP](https://github.com/brainboxdotcc/DPP) (Bundled)

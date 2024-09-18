@@ -1,6 +1,7 @@
 include(fetchHelper.cmake)
 
 # Dependencies
+add_subdirectory(dpp)
 
 # Print status of all dependencies
 if (DEFINED 3P-EXIT)

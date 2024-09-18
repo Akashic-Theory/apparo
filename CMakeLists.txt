@@ -9,3 +9,4 @@ add_executable(apparo
         src/entry.cpp
 )
 
+target_link_libraries(apparo dpp)
